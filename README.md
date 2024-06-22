@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijeet-shukla" alt="abhijeet-shukla" /></a> </p>
 
-- 🔭 I’m currently working on **PomoDoro Applcation**
+- 🔭 I’m currently working on **Blogging Platform**
 
-- 🌱 I’m currently learning **Angular, AWS**
+- 🌱 I’m currently learning **MongoDB, AWS**
 
-- 💬 Ask me about **Java, Spring Boot, SQL**
+- 💬 Ask me about **Java, Spring Boot, SQL, C#**
 
 - 📫 How to reach me **shukla.abhijeet20@gmail.com**
 
