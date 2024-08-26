@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijeet-shukla" alt="abhijeet-shukla" /></a> </p>
 
-- 🔭 I’m currently working on **Blogging Platform**
+- 🔭 I’m currently working on **Myself**
 
 - 🌱 I’m currently learning **MongoDB, AWS**
 
